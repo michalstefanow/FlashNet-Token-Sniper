@@ -1,0 +1,46 @@
+{
+  "name": "clunkers",
+  "version": "1.0.0",
+  "description": "FlashNet Token Sniper - Dark, Technical, Lightning Fast",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "snipe": "npm run build && node dist/index.js"
+  },
+  "keywords": [
+    "flashnet",
+    "sniper",
+    "token",
+    "crypto",
+    "trading"
+  ],
+  "author": "Clunkers",
+  "license": "MIT",
+  "dependencies": {
+    "@buildonspark/issuer-sdk": "^0.0.84",
+    "@flashnet/sdk": "^0.3.11",
+    "axios": "^1.6.0",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.5",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "ecpair": "^3.0.0",
+    "inquirer": "^8.2.6",
+    "tiny-secp256k1": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.1",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
