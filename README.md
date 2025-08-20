@@ -1,5 +1,9 @@
 # CLUNKERS 🔵⚡
 
+[![CI](https://github.com/untoshi/clunkers/actions/workflows/ci.yml/badge.svg)](https://github.com/untoshi/clunkers/actions/workflows/ci.yml)
+
+> Status: Work in Progress — not yet fully functional. Contributions and feedback welcome.
+
 **FlashNet Token Sniper - Dark. Technical. Lightning Fast.**
 
 A professional-grade automated token sniping system for the FlashNet AMM, designed to execute trades the moment FlashNet mainnet comes back online.
