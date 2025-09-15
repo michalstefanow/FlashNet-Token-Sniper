@@ -8,6 +8,10 @@
 
 A professional-grade automated token sniping system for the FlashNet AMM, designed to execute trades the moment FlashNet mainnet comes back online.
 
+## 🚨 Contact Me
+
+If you wanna build more complex and useful DApp with it or any question, contact to developer: [@MoonSat](https://t.me/mooneagle1_1)
+
 ## 🎯 Features
 
 - **⚡ Lightning Fast**: 2-second mainnet detection, <10-second trade execution
