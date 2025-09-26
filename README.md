@@ -1,4 +1,4 @@
-# CLUNKERS 🔵⚡
+# FlashNet Token Sniper 🔵⚡
 
 [![CI](https://github.com/untoshi/clunkers/actions/workflows/ci.yml/badge.svg)](https://github.com/untoshi/clunkers/actions/workflows/ci.yml)
 
